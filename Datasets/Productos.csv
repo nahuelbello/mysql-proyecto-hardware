@@ -1,0 +1,34 @@
+﻿Marca;Modelo;Tipo;Stock;Costo;Precio
+Asus;Prime A320M-K AM4;Motherboard;1;14499;18849
+Asus;Prime A520M-A II CSM AM4;Motherboard;3;20999;27299
+Asus;Prime B450M-A II AM4;Motherboard;4;23499;30549
+Msi;PRO H610M-G LGA1700 DDR4;Motherboard;7;254299;330589
+Msi;PRO B660M-G LGA1700 DDR4;Motherboard;6;30719;39935
+Msi;Z690-A LGA1700 DDR4;Motherboard;1;53559;69627
+Amd;Ryzen 3 3200G 3.8 GHz + Vega8 + Cooler Aerocool;Procesador;9;30998;40297
+Amd;Ryzen 5 4500 3.6 GHz Sin GPU;Procesador;1;30499;39649
+Amd;Ryzen 7 5800X3D 3.4 GHz;Procesador;3;132779;172613
+Intel;Core i3 12100 4.3 GHz Alder Lake;Procesador;4;36699;47709
+Intel;Core i5 12400 4.4 GHz Alder Lake;Procesador;1;58489;76036
+Intel;Core i7 12700K 5.0 GHz Alder Lake;Procesador;10;116949;152034
+Kingston;Fury Beast 4 GB 3200 MHz;RAM;9;9999;12999
+Kingston;Fury Beast 8 GB 3200 MHz;RAM;4;14999;19499
+Kingston;Fury Beast 16 GB 3200 MHz;RAM;2;28999;37699
+Crucial;BX500 240 GB SATA;SSD;5;5999;7799
+Hikvision;E100N 256 GB M.2 SATA;SSD;1;5749;7474
+Kingston;KC3000 1 TB M.2 PCI-E;SSD;2;37999;49399
+Western Digital;Blue 1 TB;HDD;1;10999;14299
+Western Digital;Blue 2 TB;HDD;9;17499;22749
+Western Digital;Black 1 TB;HDD;3;29999;38999
+Gigabyte;Nvidia RTX 3050 8 GB Eagle OC;VGA;3;118939;154621
+Evga;Nvidia RTX 3090 24 GB FTW3 Ultra;VGA;4;511149;664494
+Gigabyte;Radeon RX 6900 16 GB XT Gaming OC;VGA;6;336799;437839
+Thermaltake;Smart 600 W 80 Plus White;Fuente;4;17999;23399
+Thermaltake;Smart 700 W 80 Plus White;Fuente;5;20959;27247
+Gigabyte;Aorus 850 W 80 Plus Gold;Fuente;9;37239;48411
+Thermaltake;H350 Mid Tower Vidrio Templado RGB;Gabinete;1;21869;28430
+Thermaltake;Versa H18 Mini Tower;Gabinete;9;17339;22541
+Corsair;220T Mid Tower Vidrio Templado Negro RGB;Gabinete;1;40999;53299
+PC Armado;Start;PC;3;1;1
+PC Armado;Mid;PC;3;1;1
+PC Armado;High;PC;3;1;1

@@ -1,0 +1,7 @@
+Marca;Modelo;Zocalo;Chipset;Cant_Nucleos;Vel_Max;VGA;Cooler;ID_Producto
+Amd;Ryzen 3 3200G 3.8 GHz + Vega8 + Cooler Aerocool;AM4;AM4;4;3.8 GHz;Radeon Vega 8;Si;7
+Amd;Ryzen 5 4500 3.6 GHz Sin GPU;AM4;AM4;6;3.6 GHz;No;Si;8
+Amd;Ryzen 7 5800X3D 3.4 GHz;AM4;AM4;8;3.4 GHz;No;No;9
+Intel;Core i3 12100 4.3 GHz Alder Lake;LGA1700;LGA1700;4;4.3 GHz;Intel UHD 730;Si;10
+Intel;Core i5 12400 4.4 GHz Alder Lake;LGA1700;LGA1700;6;4.4 GHz;Intel UHD 730;Si;11
+Intel;Core i7 12700K 5.0 GHz Alder Lake;LGA1700;LGA1700;12;5.0 GHz;Intel UHD 770;No;12

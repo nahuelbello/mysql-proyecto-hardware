@@ -1,0 +1,4 @@
+﻿Marca;Modelo;Tecnologia;Capacidad;Vel_Lectura;Vel_Escritura;ID_Producto
+Crucial;BX500 240 GB SATA;SATA 3;240 GB;540 MB/s;500 MB/s;16
+Hikvision;E100N 256 GB M.2 SATA;M.2 SATA;256 GB;500 MB/s;347 MB/s;17
+Kingston;KC3000 1 TB M.2 PCI-E;M.2 PCI-E;1 TB;7000 MB/s;6000 MB/s;18
